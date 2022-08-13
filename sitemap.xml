@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://andrewkirrane.github.io/Portfolio/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/categories/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/projects/github-virtual-assistant-with-nlp/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/categories/neural-nets/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/projects/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/series/</loc>
+  </url><url>
+    <loc>https://andrewkirrane.github.io/Portfolio/tags/</loc>
+  </url>
+</urlset>
